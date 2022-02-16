@@ -1,0 +1,30 @@
+﻿  ArraList.cpp
+  LinkedList.cpp
+  Online Market.cpp
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Product.cpp(62,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Product.cpp(66,17): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Run.cpp(204,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Run.cpp(261,16): warning C4101: 'err': unreferenced local variable
+  Person.cpp
+  Product.cpp
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Product.cpp(62,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Product.cpp(66,17): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Run.cpp
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Product.cpp(62,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Product.cpp(66,17): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Run.cpp(204,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\EGYPT\Source\Repos\Complete-Online-Market\Online Market\Run.cpp(261,16): warning C4101: 'err': unreferenced local variable
+  Generating Code...
+  Online Market.vcxproj -> C:\Users\EGYPT\Source\Repos\Complete-Online-Market\x64\Debug\Online Market.exe
